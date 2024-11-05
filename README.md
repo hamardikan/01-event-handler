@@ -13,7 +13,7 @@ A minimalist counter application built with vanilla JavaScript, featuring persis
 
 ## Live Demo
 
-[View Live Demo]([https://hamardikan.github.io/01-event-handler/]) <!-- Add your GitHub Pages URL when deployed -->
+[View Live Demo](https://hamardikan.github.io/01-event-handler/) <!-- Add your GitHub Pages URL when deployed -->
 
 ## Technologies Used
 
